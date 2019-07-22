@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: AccountEmailServiceTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.029 s <<< FAILURE! - in AccountEmailServiceTest
+initializationError(AccountEmailServiceTest)  Time elapsed: 0.006 s  <<< ERROR!
+java.lang.Exception: Method startMailServer() should be public
+
